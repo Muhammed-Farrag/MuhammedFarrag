@@ -3,6 +3,14 @@
 
 ---
 
+### 👨‍💻 About Me  
+- 💼 Currently working at **TJM Labs** as a **Junior Software Developer**  
+- 🎓 Studying **Computer Science and Engineering**  
+- 🤖 Passionate about **AI, Data Science, and Software Development**  
+- 🌍 Always eager to learn and explore new technologies  
+
+---
+
 ### 🧠 Tech Stack  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,mongodb,github,vscode" />
